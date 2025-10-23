@@ -1,11 +1,11 @@
-# supported_os_widget
+# os_supported_widget
 A custom Supported OS bar graph Widget for munkireport
 
 > v. 1.0.0  
 > October 23, 2025  
 > Alex Narvey / Precursor.ca
 
-![Supported OS in colored bar graph](support)os_widget.png)
+![Supported OS in colored bar graph](support_os_widget.png)
 
 A custom Supported OS widget for MunkiReport 5 to display the information in a colored bar graph.
 Using the currently supported OS derived from the munkireport supported OS module it will color the current Supported OS green.
@@ -16,7 +16,7 @@ No warrantee is offered. Neither express nor implied. Use at your own risk.
 Place in:
 ```munkireport-php/local/views/widgets``` folder.
 
-And call using a .yml file ```supported_os:```
+And call using a .yml file ```os_supported:```
 
 See the munkireport wiki on custom dashbaoards at: 
 
